@@ -1,0 +1,27 @@
+***TV CABLE'S CUSTOMERS BILL DETAIL** 
+============================================== 
+***TELEVISION CABLE BILL PAYEMENT** 
+=============================================  
+Customer ID: 456
+Customer Name: xyz
+Customer Phone Number: 30
+Customer's Amount to be paid: 0
+Due Date: 
+***TV CABLE'S CUSTOMERS BILL DETAIL** 
+============================================== 
+***TELEVISION CABLE BILL PAYEMENT** 
+=============================================  
+Customer ID: 23
+Customer Name: xy
+Customer Phone Number: 306
+Customer's Amount to be paid: 0
+Due Date: 
+***TV CABLE'S CUSTOMERS BILL DETAIL** 
+============================================== 
+***TELEVISION CABLE BILL PAYEMENT** 
+=============================================  
+Customer ID: 34
+Customer Name: xy
+Customer Phone Number: 306
+Customer's Amount to be paid: 0
+Due Date: 
